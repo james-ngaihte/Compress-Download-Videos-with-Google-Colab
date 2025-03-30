@@ -7,12 +7,15 @@ This Colab notebook compresses videos using FFmpeg and uploads them to Google Dr
 ## Features
 - Mounts Google Drive for file access  
 - Compresses videos using FFmpeg  
-- Uploads the compressed file to Google Drive  
+- Downloads Videos using various tools (including wget, m3u8 , and bunkr downloader)
+- Uploads the compressed file to Google Drive
+- File Management Capability if required by user.
 
 ## How to Use
 1. Click the **"Open in Colab"** button above.  
 2. Run the first cell to mount Google Drive.  
-3. Follow the steps to select, compress, and upload a video.  
+3. Follow the steps to select, compress, and upload,download a video.
+4. If user needs managing their files within colab itself (eg.move files withon folders or move a file from colab ro a kounted drive) , they can chiose their desired option and execute it.  
 
 ## Requirements
 - Google Colab  
