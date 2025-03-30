@@ -1,6 +1,6 @@
 # Video Compressor & Uploader
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/james-ngaihte/video-compressor/blob/main/Refined_Compress_and_Download_Videos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/james-ngaihte/Compress-Download-Videos-with-Google-Colab/refs/heads/main/Compress-Download%20Videos.ipynb)
 
 This Colab notebook compresses videos using FFmpeg and uploads them to Google Drive.
 
